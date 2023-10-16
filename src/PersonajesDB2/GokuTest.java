@@ -10,6 +10,7 @@ class GokuTest {
 	void test() {
 		fail("Not yet implemented");
 		int a = 1;
+		int b = 2;
 	}
 
 }
